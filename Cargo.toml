@@ -1,0 +1,10 @@
+[package]
+name = "wild"
+
+edition = "2024"
+
+[dependencies]
+cty = "0.2.2"
+
+[build-dependencies]
+cc = "1.2.27"
